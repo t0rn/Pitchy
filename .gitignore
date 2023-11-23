@@ -34,3 +34,6 @@ Carthage
 
 # SPM
 .build/
+Pitchy.xcodeproj/project.xcworkspace/xcshareddata
+PitchyPlayground-iOS.playground/playground.xcworkspace/contents.xcworkspacedata
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
